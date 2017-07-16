@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ArrayContanisElement", "01.ArrayContanisElement\01.ArrayContanisElement.csproj", "{F621FAEC-E929-403D-A3A9-A8CAAEAD4E20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SmallestElementInArray", "02.SmallestElementInArray\02.SmallestElementInArray.csproj", "{8C944209-376F-4A56-856B-1B6159E9A08A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ReverseArrayInPlace", "03.ReverseArrayInPlace\03.ReverseArrayInPlace.csproj", "{29D2EBE6-91EA-4DE4-B088-CDC52DF32DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SortArrayUsingBubbleSort", "04.SortArrayUsingBubbleSort\04.SortArrayUsingBubbleSort.csproj", "{E9E12301-4F4B-478E-8DE8-8F4D72617B45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.InsertionSortUsingList", "05.InsertionSortUsingList\05.InsertionSortUsingList.csproj", "{5E539F4D-4EB2-45C1-B0BD-FFCC5561FA2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.1.InsertionSortUsingList", "05.1.InsertionSortUsingList\05.1.InsertionSortUsingList.csproj", "{B288B724-56BB-45D6-8B0E-2C069BDBA88A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F621FAEC-E929-403D-A3A9-A8CAAEAD4E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F621FAEC-E929-403D-A3A9-A8CAAEAD4E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F621FAEC-E929-403D-A3A9-A8CAAEAD4E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F621FAEC-E929-403D-A3A9-A8CAAEAD4E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C944209-376F-4A56-856B-1B6159E9A08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C944209-376F-4A56-856B-1B6159E9A08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C944209-376F-4A56-856B-1B6159E9A08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C944209-376F-4A56-856B-1B6159E9A08A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D2EBE6-91EA-4DE4-B088-CDC52DF32DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D2EBE6-91EA-4DE4-B088-CDC52DF32DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D2EBE6-91EA-4DE4-B088-CDC52DF32DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D2EBE6-91EA-4DE4-B088-CDC52DF32DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E12301-4F4B-478E-8DE8-8F4D72617B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E12301-4F4B-478E-8DE8-8F4D72617B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E12301-4F4B-478E-8DE8-8F4D72617B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E12301-4F4B-478E-8DE8-8F4D72617B45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E539F4D-4EB2-45C1-B0BD-FFCC5561FA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E539F4D-4EB2-45C1-B0BD-FFCC5561FA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E539F4D-4EB2-45C1-B0BD-FFCC5561FA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E539F4D-4EB2-45C1-B0BD-FFCC5561FA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B288B724-56BB-45D6-8B0E-2C069BDBA88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B288B724-56BB-45D6-8B0E-2C069BDBA88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B288B724-56BB-45D6-8B0E-2C069BDBA88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B288B724-56BB-45D6-8B0E-2C069BDBA88A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
